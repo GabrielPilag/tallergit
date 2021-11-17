@@ -1,2 +1,6 @@
 Ejemplo de texto 2
+
 Modificamos los dos
+
+Escribo algo
+
